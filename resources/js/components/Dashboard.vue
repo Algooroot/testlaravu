@@ -1,0 +1,1 @@
+ <h1>Welcome {username} <a @click="logout">Logout</a></h1>
